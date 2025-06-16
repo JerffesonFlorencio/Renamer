@@ -1,0 +1,13 @@
+numpy
+opencv-python
+openpyxl
+pandas
+pillow
+PyAutoGUI
+loguru
+keyboard
+flet==0.26.0
+flet-desktop
+tk
+python-docx
+PySimpleGUI
